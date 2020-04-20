@@ -10,7 +10,7 @@ package com.bjsxt.service;
 public interface TestInterface02 {
 	void testMth01();
 	
-	String testsssMth02();
+	void testsfsdMthssdfs222();
 	
 	void testMth03();
 }
