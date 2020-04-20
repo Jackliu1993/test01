@@ -11,4 +11,6 @@ public interface TestInterface02 {
 	void testMth01();
 	
 	void testMth02();
+	
+	void testMth03();
 }
