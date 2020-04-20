@@ -3,7 +3,7 @@ package com.bjsxt.service;
 /**
  *
  *
- * @author Legion
+ * @author Legion-myEclipse
  * @date 2020年4月19日
  *
  */
@@ -17,4 +17,6 @@ public interface TestInterface {
 	void test04();
 	
 	void test05();
+	
+	void test06();
 }
