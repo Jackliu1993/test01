@@ -9,4 +9,6 @@ package com.bjsxt.service;
  */
 public interface TestInterface {
 	void test();
+	
+	void test02();
 }
