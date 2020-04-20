@@ -12,5 +12,5 @@ public interface TestInterface02 {
 	
 	void testsfsdMthssdfs222();
 	
-	void testMth03();
+	void testM324th03();
 }
