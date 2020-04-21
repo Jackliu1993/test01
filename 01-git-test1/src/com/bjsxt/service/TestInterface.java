@@ -21,4 +21,6 @@ public interface TestInterface {
 	void test06();
 	
 	void test07();
+	
+	String testString();
 }
