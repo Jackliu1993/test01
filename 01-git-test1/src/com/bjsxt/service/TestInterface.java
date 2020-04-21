@@ -10,15 +10,11 @@ package com.bjsxt.service;
 public interface TestInterface {
 	void test();
 	
-	void test02();
-	
-	void test03();
-	
 	void test04();
 	
 	void test05();
 	
-	void test06();
+	void tessdfsdt06();
 	
 	void test07();
 	
