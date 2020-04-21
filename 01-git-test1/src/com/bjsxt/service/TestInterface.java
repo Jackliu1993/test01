@@ -14,8 +14,6 @@ public interface TestInterface {
 	
 	void test03();
 	
-	void test04();
-	
 	void test05();
 	
 	void test06();
