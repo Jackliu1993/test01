@@ -18,5 +18,7 @@ public interface TestInterface {
 	
 	void test07();
 	
-	String testString();
+	String testString22();
+	
+	Integer testInteger();
 }
