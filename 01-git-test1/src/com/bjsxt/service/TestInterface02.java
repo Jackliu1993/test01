@@ -13,4 +13,6 @@ public interface TestInterface02 {
 	void testsfsdMthssdfs222();
 	
 	void test0333();
+	
+	void test0333wrwer();
 }

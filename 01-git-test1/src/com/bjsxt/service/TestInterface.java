@@ -10,10 +10,6 @@ package com.bjsxt.service;
 public interface TestInterface {
 	void test();
 	
-	void test02();
-	
-	void test03();
-	
 	void test04();
 	
 	void test05();
@@ -21,4 +17,8 @@ public interface TestInterface {
 	void test06();
 	
 	void test07();
+	
+	String testString22();
+	
+	Integer testInteger();
 }
