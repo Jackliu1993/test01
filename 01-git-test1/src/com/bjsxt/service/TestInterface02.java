@@ -10,9 +10,9 @@ package com.bjsxt.service;
 public interface TestInterface02 {
 	void testMth01();
 	
-	void testsfsdMthssdfs222();
+	void testsfsdMfs2223333();
 	
 	void test0333();
 	
-	void testiipo();
+	void test0333wrwer();
 }
