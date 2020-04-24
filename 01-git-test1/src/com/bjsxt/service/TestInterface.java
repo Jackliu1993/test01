@@ -21,4 +21,6 @@ public interface TestInterface {
 	String testString22();
 	
 	Integer testInteger();
+	
+	Integer testInteger23();
 }
