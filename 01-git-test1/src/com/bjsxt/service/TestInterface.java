@@ -14,7 +14,7 @@ public interface TestInterface {
 	
 	void test05();
 	
-	void test06();
+	void tessdfsdt06();
 	
 	void test07();
 	
