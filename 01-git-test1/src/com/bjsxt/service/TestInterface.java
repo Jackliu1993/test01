@@ -18,8 +18,6 @@ public interface TestInterface {
 	
 	void test07();
 	
-	String testString22();
-	
 	Integer testInteger();
 	
 	Integer testInteger23();
