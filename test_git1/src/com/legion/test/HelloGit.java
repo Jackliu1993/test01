@@ -9,6 +9,12 @@ public class HelloGit {
 	}
 	
 	@Override
+	public boolean equals(Object obj) {
+		System.out.println("HelloGit.equals().....");
+		return super.equals(obj);
+	}
+	
+	@Override
 	public String toString() {
 		System.out.println("HelloGit.toString(), now date is "+new Date());
 		return "HelloGit.toString()";
