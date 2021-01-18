@@ -10,8 +10,4 @@ public class TestDeleteCode {
 	public static void main(String[] args) {
 		System.out.println("===========");
 	}
-	
-	public String toString() {
-		return "toString method from TestDeleteCode.....";
-	};
 }
