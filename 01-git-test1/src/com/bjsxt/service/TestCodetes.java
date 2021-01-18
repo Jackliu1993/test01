@@ -16,4 +16,10 @@ public class TestCodetes {
 		System.out.println("TestCodetes.equals()");
 		return super.equals(obj);
 	}
+	
+	@Override
+		public String toString() {
+			System.out.println("TestCodetes.toString()");
+			return super.toString();
+		}
 }
