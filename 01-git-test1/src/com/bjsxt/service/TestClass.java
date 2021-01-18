@@ -7,10 +7,16 @@ package com.bjsxt.service;
  * 
  */
 public class TestClass {
+	
 	@Override
 	public boolean equals(Object obj) {
 		System.out.println("TestClass.equals()");
 		return super.equals(obj);
 	}
 
+	@Override
+	public String toString() {
+		System.out.println("TestClass.toString()");
+		return super.toString();
+	}
 }
