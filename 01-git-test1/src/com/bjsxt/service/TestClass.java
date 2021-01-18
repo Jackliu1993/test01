@@ -7,5 +7,9 @@ package com.bjsxt.service;
  * 
  */
 public class TestClass {
-
+	@Override
+	public String toString() {
+		System.out.println("TestClass.toString()");
+		return super.toString();
+	}
 }
